@@ -234,6 +234,7 @@ main{
   background-repeat: no-repeat;
 }
 
+
 .currency-table--date{
   width: 190px;
   height: 30px;
@@ -432,6 +433,10 @@ main{
   color: #757575;
 }
 
+.plans-container--slider{
+  display: flex;
+}
+
 .plans-container--card{
   position: relative;
   width: 70%;
@@ -519,3 +524,4 @@ main{
   background-image: url('../assets/icons/orange-right-arrow.svg');
   vertical-align: text-bottom;
 }
+
