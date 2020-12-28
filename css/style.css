@@ -434,9 +434,7 @@ main{
 }
 
 .plans-container--slider{
-  
   display: flex;
-  justify-content: center;
   height: 316px;
   overflow-x: scroll;
   overscroll-behavior-x: contain;
@@ -447,10 +445,10 @@ main{
   position: relative;
   scroll-snap-align: center;
   width: 70%;
-  min-width: 230px;
+  min-width: 190px;
   max-width: 300px;
   height: 250px;
-  margin: 50px 25px 0;
+  margin: 50px 5px 0;
   padding: 0 15px;
   background-color: var(--just-white);
   border-radius: 15px;
